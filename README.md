@@ -155,12 +155,7 @@ The following rules govern all activity on a FundingPips funded account. Operati
 
 ---
 
-## 📁 Data
 
-| File | Description |
-|------|-------------|
-| [`NQ_ORB_trades.csv`](./NQ_ORB_trades.csv) | Trade journal — entry/exit prices, PnL, direction, duration |
-| [`trades_675_corrected.csv`](./trades_675_corrected.csv) | Full 675-trade dataset with running account equity |
 
 ---
 
