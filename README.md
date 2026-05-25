@@ -42,9 +42,9 @@ FundingPips is a proprietary trading firm (prop firm) that evaluates traders thr
 
 This repository is a **live, unfiltered 2-year track record** on a CFD account — NDX100, DJ30, XAUUSD and more. Every trade logged, nothing hidden. Raw equity growth from **starting balance  → 34%**, peaking at **81.29%**.
 
-I started trading at **15 years old**. I'm 22 now. That's 7 years of charts, losses, breakthroughs, and everything in between. For years it didn't click. I blew accounts, doubted myself, and questioned everything. There were nights I stayed up until 3am studying price action, mornings I was back at the screen before sunrise, weekends that didn't feel like weekends. I gave this everything I had, even when I had nothing to show for it.
+I started trading at **15 years old**. I'm 22 now. That's 7 years of charts, losses, breakthroughs, and everything in between. For years it didn't click. I blew accounts, doubted myself, and questioned everything.  I spent a lot of late nights and early mornings just trying to understand how markets move. Weekends were often spent watching videos or going through old trades.
 
-It's only in the **last 2.5 years** that it started to come together. Not because I found some secret — but because I put in the time, took the losses seriously, and refused to quit. I'm entirely **self-taught** . Just YouTube videos, screen time, and the brutal but honest feedback from  losing.  I have learnt alot and I will continue to learn  
+It's only in the **last 2.5 years** that it started to come together. Not because I found some secret — but because I put in the time, took the losses seriously, and refused to quit. Im **self-taught** . Just YouTube videos, screen time, and the brutal but honest feedback from  losing.  I have learnt alot and I will continue to learn because this is something I am truly apssionate about. 
 
 This repository is the honest record of that journey. The drawdowns are real. The mistakes are real. But so is the growth. 📊
 
