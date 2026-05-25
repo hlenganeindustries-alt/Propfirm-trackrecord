@@ -25,9 +25,10 @@
 
 ```
 📁 cfd-trading-record/
+├── 📊         ← Trade journal: all trades logged over the 2-year period
 ├── 📄 README.md                ← Overview, background, metrics & verified profile
-├── 📊 NQ_ORB_trades.csv        ← Trade journal: all trades logged over the 2-year period
-└── 📊 trades_675_corrected.csv ← Full 675-trade dataset used to generate the equity curve
+
+
 ```
 
 ---
