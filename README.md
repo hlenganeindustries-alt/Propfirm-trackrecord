@@ -15,6 +15,7 @@
 ![Trades](https://img.shields.io/badge/Total%20Trades-675-1a73e8?style=for-the-badge)
 ![Return](https://img.shields.io/badge/Overall%20Return-%2B34%25-00c853?style=for-the-badge)
 ![Peak](https://img.shields.io/badge/Peak%20Equity-%2B81.29%25-ff6d00?style=for-the-badge)
+![Profit](https://img.shields.io/badge/Total%20Profit-%241%2C712-9b59b6?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-LIVE-brightgreen?style=for-the-badge)
 
 </div>
@@ -26,7 +27,7 @@
 ```
 📁 cfd-trading-record/
 ├── 📊 All-trades-Journaled.csv        ← Trade journal: all trades logged over the 2-year period
-├── 📄 README.md                ← (your here)-Overview, background, metrics & verified profile
+├── 📄 README.md                ← Overview, background, metrics & verified profile
 
 
 ```
