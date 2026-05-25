@@ -1,15 +1,15 @@
 <div align="center">
 
 ```
-███╗   ██╗ ██████╗      ██████╗ ██████╗ ██████╗
-████╗  ██║██╔═══██╗    ██╔═══██╗██╔══██╗██╔══██╗
-██╔██╗ ██║██║   ██║    ██║   ██║██████╔╝██████╔╝
-██║╚██╗██║██║▄▄ ██║    ██║   ██║██╔══██╗██╔══██╗
-██║ ╚████║╚██████╔╝    ╚██████╔╝██║  ██║██████╔╝
-╚═╝  ╚═══╝ ╚══▀▀═╝      ╚═════╝ ╚═╝  ╚═╝╚═════╝
+ ██████╗███████╗██████╗     ████████╗██████╗  █████╗ ██████╗ ██╗███╗   ██╗ ██████╗
+██╔════╝██╔════╝██╔══██╗    ╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██║████╗  ██║██╔════╝
+██║     █████╗  ██║  ██║       ██║   ██████╔╝███████║██║  ██║██║██╔██╗ ██║██║  ███╗
+██║     ██╔══╝  ██║  ██║       ██║   ██╔══██╗██╔══██║██║  ██║██║██║╚██╗██║██║   ██║
+╚██████╗██║     ██████╔╝       ██║   ██║  ██║██║  ██║██████╔╝██║██║ ╚████║╚██████╔╝
+ ╚═════╝╚═╝     ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
-### 📈 NQ CFD · Live Track Record · 2 Years
+### 📈 CFD Trading · Live Trading Record · 2 Years
 
 ![Years Active](https://img.shields.io/badge/Years%20Active-2-00d4aa?style=for-the-badge)
 ![Trades](https://img.shields.io/badge/Total%20Trades-675-1a73e8?style=for-the-badge)
@@ -21,6 +21,12 @@
 
 ---
 
+## 🏢 What is FundingPips?
+
+FundingPips is a proprietary trading firm (prop firm) that evaluates traders through a challenge process. Traders who pass are funded with the firm's capital and earn a share of the profits — without risking their own money. I trade a **$5,000 funded account**, and the rewards earned reflect real payouts from live performance under their risk management rules.
+
+---
+
 ## ⚡ What Is This?
 
 This repository is a **live, unfiltered 2-year track record** on a CFD account — NDX100, DJ30, XAUUSD and more. Every trade logged, nothing hidden. Raw equity growth from **100% → 134%**, peaking at **181.29%**.
@@ -28,6 +34,8 @@ This repository is a **live, unfiltered 2-year track record** on a CFD account �
 These 2 years have been a serious education. I've made plenty of mistakes — bad entries, poor risk management, emotional trades — and this record shows all of it, drawdowns included. No polishing, no selective memory. Every loss is a lesson and every lesson has made me sharper. The goal isn't perfection, it's **consistent improvement**, and that's what I show up for every single day. 📊
 
 > 🟢 **FundingPips** · Bronze Tier · $1,712 total rewards earned · Highest reward $850.40
+>
+> I'm sharing my public FundingPips profile below — not to boast, but simply to show that the numbers in this repository are real and verifiable. I'm still learning and have a long way to go, but transparency matters to me.
 >
 > 🔗 **[View Verified FundingPips Profile →](https://app.fundingpips.com/shared/users/41ecf009-a5de-4ae7-bc0c-57913523a01f)**
 
