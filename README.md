@@ -25,8 +25,8 @@
 
 ```
 📁 cfd-trading-record/
-├── 📄 README.md               ← You are here — overview, story, metrics & stats
 ├── 📊 All-trades-Journaled.csv       ← Trade journal: all trades over the 2-year period
+├── 📄 README.md               ← You are here — overview, story, metrics & stats
 
 ```
 
