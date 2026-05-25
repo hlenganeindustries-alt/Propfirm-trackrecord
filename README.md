@@ -149,6 +149,14 @@ The following rules govern all activity on a FundingPips funded account. Operati
 
 ---
 
+## 📌 Account Status
+
+This repository contains the **complete and unedited history** of this CFD trading account. The account was last traded on **18 February 2026**.
+
+Following this date, I have transitioned into trading **futures**, and no further CFD trades will be added to this record. This track record stands as a full, closed chapter of my trading development.
+
+---
+
 ## ⚠️ Disclaimer
 
 This repository is a personal performance record maintained for transparency and professional reference. Nothing contained here constitutes financial advice. CFD trading carries a high level of risk and may not be suitable for all investors. Past performance is not indicative of future results.
@@ -157,6 +165,6 @@ This repository is a personal performance record maintained for transparency and
 
 <div align="center">
 
-*A work in progress — updated continuously.*
+*This record is complete — last updated February 2026.*
 
 </div>
