@@ -41,7 +41,7 @@ FundingPips is a proprietary trading firm (prop firm) that evaluates traders thr
 
 ## 👤 Background
 
-This repository documents a live, two-year CFD trading record across instruments including NDX100, DJ30, and XAUUSD. It is intended to serve as a transparent and verifiable account of my development as a trader.
+This repository documents a live, two-year CFD trading track record across instruments including NDX100, DJ30, and XAUUSD. It is intended to serve as a transparent and verifiable account of my development as a trader.
 
 I began trading at the age of 15 and am currently 22 years old. The early years were difficult — I made many mistakes, experienced significant losses, and had to learn how to manage both risk and emotion under pressure. I am entirely self-taught, having built my knowledge through free resources, YouTube, and most importantly, the experience of working through my own errors over time. My love for trading and investing led to me studying and completing a bachelors degree in Finance , I am currently doing my postgraduate Honours degree in Finance .
 
