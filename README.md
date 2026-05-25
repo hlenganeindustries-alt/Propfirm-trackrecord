@@ -40,7 +40,7 @@ FundingPips is a proprietary trading firm (prop firm) that evaluates traders thr
 
 ## ⚡ What Is This?
 
-This repository is a **live, unfiltered 2-year track record** on a CFD account — NDX100, DJ30, XAUUSD and more. Every trade logged, nothing hidden. Raw equity growth from **start → 34%**, peaking at **81.29%**.
+This repository is a **live, unfiltered 2-year track record** on a CFD account — NDX100, DJ30, XAUUSD and more. Every trade logged, nothing hidden. Raw equity growth from **starting balance  → 34%**, peaking at **81.29%**.
 
 I started trading at **15 years old**. I'm 22 now. That's 7 years of charts, losses, breakthroughs, and everything in between. For years it didn't click. I blew accounts, doubted myself, and questioned everything. There were nights I stayed up until 3am studying price action, mornings I was back at the screen before sunrise, weekends that didn't feel like weekends. I gave this everything I had, even when I had nothing to show for it.
 
