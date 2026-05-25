@@ -9,7 +9,7 @@
  ╚═════╝╚═╝     ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
-### 📈 CFD Trading · Live Trading Record · 2 Years
+### 📈 CFD Trading ·  Trading account  TrackRecord · 2 Years
 
 ![Years Active](https://img.shields.io/badge/Years%20Active-2-00d4aa?style=for-the-badge)
 ![Trades](https://img.shields.io/badge/Total%20Trades-675-1a73e8?style=for-the-badge)
