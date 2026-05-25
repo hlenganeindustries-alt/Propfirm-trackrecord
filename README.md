@@ -59,18 +59,8 @@ The record shared here includes both good periods and difficult ones. I have not
 
 ## 📊 Equity Curve
 
-<!-- OPTION A: Save chart as equity_curve.png, upload to repo, then uncomment: -->
-<!-- ![Equity Curve](./equity_curve.png) -->
+<img width="1920" height="911" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/89618f78-67ca-426b-b99f-2ca775d78352" />
 
-<!-- OPTION B: Interactive HTML chart -->
-<details>
-<summary><b>🔽 Click to expand interactive equity curve</b></summary>
-
-<!-- PASTE YOUR equity_curve_white_bg.html CONTENT HERE -->
-
-</details>
-
----
 
 ## 📋 Account Metrics
 
