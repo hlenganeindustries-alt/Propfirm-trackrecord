@@ -43,7 +43,7 @@ FundingPips is a proprietary trading firm (prop firm) that evaluates traders thr
 
 This repository documents a live, two-year CFD trading record across instruments including NDX100, DJ30, and XAUUSD. It is intended to serve as a transparent and verifiable account of my development as a trader.
 
-I began trading at the age of 15 and am currently 22 years old. The early years were difficult — I made many mistakes, experienced significant losses, and had to learn how to manage both risk and emotion under pressure. I am entirely self-taught, having built my knowledge through free resources, YouTube, and most importantly, the experience of working through my own errors over time. My love for trading and investing led to me studying and completing a bachelors degree in Finance , I am currently doing my postgraduate Honours degree in finance .
+I began trading at the age of 15 and am currently 22 years old. The early years were difficult — I made many mistakes, experienced significant losses, and had to learn how to manage both risk and emotion under pressure. I am entirely self-taught, having built my knowledge through free resources, YouTube, and most importantly, the experience of working through my own errors over time. My love for trading and investing led to me studying and completing a bachelors degree in Finance , I am currently doing my postgraduate Honours degree in Finance .
 
 It was only in the last two and a half years that my trading became consistently profitable. I do not attribute this to any single breakthrough — it was the result of gradual improvement, honest self-assessment, and a commitment to learning from every trade, whether it was a win or a loss. I am still developing and approach each trading day with that same mindset.
 
