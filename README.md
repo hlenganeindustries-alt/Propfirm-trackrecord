@@ -66,7 +66,7 @@ These 2 years have been a serious education. I've made plenty of mistakes — ba
 | 🔢 **Total Trades** | 675 |
 | 💰 **Overall Return** | +34.00% |
 | 🏔️ **Peak Equity** | +81.29% |
-| 📉 **Max Drawdown** | -54.34% |
+| 📉 **Max Drawdown (Peak to Trough)** | -54.34% (181.29% → 126.95%, 16–19 Aug 2025, 3 days) |
 | 🎯 **Win Rate** | 41.78% (282 wins) |
 | ❌ **Loss Rate** | 58.22% (393 losses) |
 | ⚖️ **Profit Factor** | 1.26 |
@@ -124,7 +124,22 @@ These 2 years have been a serious education. I've made plenty of mistakes — ba
 
 ---
 
-## 📁 Data
+## 🛡️ FundingPips Risk Requirements
+
+These are the rules every trader must operate within on a FundingPips funded account. They exist to ensure disciplined, consistent risk management.
+
+| Rule | Limit |
+|------|-------|
+| 🔴 **Max Daily Loss** | 4% of account balance |
+| 🔴 **Max Overall Drawdown** | 8% of account balance |
+| 📊 **Minimum Trading Days** | 5 days per cycle |
+| 🎯 **Profit Target (Challenge)** | 10% Phase 1 / 5% Phase 2 |
+| ⏳ **No Time Limit** | Trade at your own pace |
+| 🔁 **Consistency Rule** | No single day can exceed 50% of total profits |
+
+> Staying within these rules while being profitable over 675 trades across 2 years is the real challenge — and the real proof of discipline.
+
+---
 
 | File | Description |
 |------|-------------|
