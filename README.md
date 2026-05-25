@@ -26,7 +26,7 @@
 ```
 📁 cfd-trading-record/
 ├── 📊 All-trades-Journaled.csv        ← Trade journal: all trades logged over the 2-year period
-├── 📄 README.md                ← your here-Overview, background, metrics & verified profile
+├── 📄 README.md                ← (your here-Overview), background, metrics & verified profile
 
 
 ```
