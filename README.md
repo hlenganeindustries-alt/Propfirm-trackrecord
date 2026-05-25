@@ -147,7 +147,7 @@ The following rules govern all activity on a FundingPips funded account. Operati
 | Rule | Requirement |
 |------|-------------|
 | 🔴 **Max Daily Loss** | 4% of account balance |
-| 🔴 **Max Overall Drawdown** | 8% of account balance |
+| 🔴 **Max Overall Drawdown** | 8% below initial starting account balance |
 | 📊 **Minimum Trading Days** | 5 days per cycle |
 | 🎯 **Profit Target (Challenge)** | 10% Phase 1 / 5% Phase 2 |
 | ⏳ **Time Limit** | None — trade at your own pace |
