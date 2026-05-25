@@ -25,32 +25,32 @@
 
 ```
 📁 cfd-trading-record/
-├── 📊 All-trades-Journaled.csv       ← Trade journal: all trades over the 2-year period
-├── 📄 README.md               ← You are here — overview, story, metrics & stats
-
+├── 📄 README.md                ← Overview, background, metrics & verified profile
+├── 📊 NQ_ORB_trades.csv        ← Trade journal: all trades logged over the 2-year period
+└── 📊 trades_675_corrected.csv ← Full 675-trade dataset used to generate the equity curve
 ```
 
 ---
 
 ## 🏢 What is FundingPips?
 
-FundingPips is a proprietary trading firm (prop firm) that evaluates traders through a challenge process. Traders who pass are funded with the firm's capital and earn a share of the profits — without risking their own money. I trade a **$5,000 funded account**, and the rewards earned reflect real payouts from live performance under their risk management rules.
+FundingPips is a proprietary trading firm (prop firm) that evaluates traders through a structured challenge process. Traders who pass are allocated the firm's capital and earn a percentage of the profits they generate — without putting up their own money. I currently trade a **$5,000 funded account**, and the rewards reflected in this record represent verified payouts earned under their live risk management rules.
 
 ---
 
-## ⚡ What Is This?
+## 👤 Background
 
-This repository is a **live, unfiltered 2-year track record** on a CFD account — NDX100, DJ30, XAUUSD and more. Every trade logged, nothing hidden. Raw equity growth from **starting balance  → 34%**, peaking at **81.29%**.
+This repository documents a live, two-year CFD trading record across instruments including NDX100, DJ30, and XAUUSD. It is intended to serve as a transparent and verifiable account of my development as a trader.
 
-I started trading at **15 years old**. I'm 22 now. That's 7 years of charts, losses, breakthroughs, and everything in between. For years it didn't click. I blew accounts, doubted myself, and questioned everything.  I spent a lot of late nights and early mornings just trying to understand how markets move. Weekends were often spent watching videos or going through old trades.
+I began trading at the age of 15 and am currently 22 years old. The early years were difficult — I made many mistakes, experienced significant losses, and had to learn how to manage both risk and emotion under pressure. I am entirely self-taught, having built my knowledge through free resources, YouTube, and most importantly, the experience of working through my own errors over time.
 
-It's only in the **last 2.5 years** that it started to come together. Not because I found some secret — but because I put in the time, took the losses seriously, and refused to quit. Im **self-taught** . Just YouTube videos, screen time, and the brutal but honest feedback from  losing.  I have learnt alot and I will continue to learn because this is something I am truly apssionate about. 
+It was only in the last two and a half years that my trading became consistently profitable. I do not attribute this to any single breakthrough — it was the result of gradual improvement, honest self-assessment, and a commitment to learning from every trade, whether it was a win or a loss. I am still developing and approach each trading day with that same mindset.
 
-This repository is the honest record of that journey. The drawdowns are real. The mistakes are real. But so is the growth. 📊
+The record shared here includes both good periods and difficult ones. I have not filtered or adjusted anything. The drawdowns are real, and so is the progress.
 
 > 🟢 **FundingPips** · Bronze Tier · $1,712 total rewards earned · Highest reward $850.40
 >
-> I'm sharing my public FundingPips profile below — not to boast, but simply to show that the numbers in this repository are real and verifiable. I'm still learning and have a long way to go, but transparency matters to me.
+> The following link provides access to my public FundingPips profile. It is shared here purely for verification purposes — to confirm that the statistics in this repository reflect a real, active trading account.
 >
 > 🔗 **[View Verified FundingPips Profile →](https://app.fundingpips.com/shared/users/41ecf009-a5de-4ae7-bc0c-57913523a01f)**
 
@@ -58,10 +58,10 @@ This repository is the honest record of that journey. The drawdowns are real. Th
 
 ## 📊 Equity Curve
 
-<!-- OPTION A: Save chart as equity_curve.png, upload to repo, uncomment below -->
+<!-- OPTION A: Save chart as equity_curve.png, upload to repo, then uncomment: -->
 <!-- ![Equity Curve](./equity_curve.png) -->
 
-<!-- OPTION B: Interactive HTML chart — paste contents of equity_curve_white_bg.html below -->
+<!-- OPTION B: Interactive HTML chart -->
 <details>
 <summary><b>🔽 Click to expand interactive equity curve</b></summary>
 
@@ -127,13 +127,13 @@ This repository is the honest record of that journey. The drawdowns are real. Th
 
 <div align="center">
 
-| Instrument | Trades | Share |
-|------------|--------|-------|
-| NDX100 | 392 | 43.18% |
-| NDX USD | 91 | 29.81% |
-| DJ30 | 128 | 44.80% |
-| XAUUSD | 48 | — |
-| GBPJPY | 16 | — |
+| Instrument | Trades |
+|------------|--------|
+| NDX100 | 392 |
+| DJ30 | 128 |
+| NDX USD | 91 |
+| XAUUSD | 48 |
+| GBPJPY | 16 |
 
 </div>
 
@@ -141,32 +141,36 @@ This repository is the honest record of that journey. The drawdowns are real. Th
 
 ## 🛡️ FundingPips Risk Requirements
 
-These are the rules every trader must operate within on a FundingPips funded account. They exist to ensure disciplined, consistent risk management.
+The following rules govern all activity on a FundingPips funded account. Operating within these constraints while maintaining consistent profitability over 675 trades reflects an ongoing commitment to structured risk management.
 
-| Rule | Limit |
-|------|-------|
+| Rule | Requirement |
+|------|-------------|
 | 🔴 **Max Daily Loss** | 4% of account balance |
 | 🔴 **Max Overall Drawdown** | 8% of account balance |
 | 📊 **Minimum Trading Days** | 5 days per cycle |
 | 🎯 **Profit Target (Challenge)** | 10% Phase 1 / 5% Phase 2 |
-| ⏳ **No Time Limit** | Trade at your own pace |
-| 🔁 **Consistency Rule** | No single day can exceed 50% of total profits |
-
-
+| ⏳ **Time Limit** | None — trade at your own pace |
+| 🔁 **Consistency Rule** | No single day may exceed 50% of total profits |
 
 ---
 
+## 📁 Data
+
+| File | Description |
+|------|-------------|
+| [`NQ_ORB_trades.csv`](./NQ_ORB_trades.csv) | Trade journal — entry/exit prices, PnL, direction, duration |
+| [`trades_675_corrected.csv`](./trades_675_corrected.csv) | Full 675-trade dataset with running account equity |
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository is a **personal performance journal**. Nothing here constitutes financial advice. CFD trading involves substantial risk of loss. Past performance does not guarantee future results.
+This repository is a personal performance record maintained for transparency and professional reference. Nothing contained here constitutes financial advice. CFD trading carries a high level of risk and may not be suitable for all investors. Past performance is not indicative of future results.
 
 ---
 
 <div align="center">
 
-*Built with discipline. Updated live. 2 years and counting.* 🚀
+*A work in progress — updated continuously.*
 
 </div>
