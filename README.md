@@ -21,6 +21,17 @@
 
 ---
 
+## 📂 Repository Structure
+
+```
+📁 cfd-trading-record/
+├── 📄 README.md               ← You are here — overview, story, metrics & stats
+├── 📊 NQ_ORB_trades.csv       ← Trade journal: all trades over the 2-year period
+└── 📊 trades_675_corrected.csv ← Full 675-trade dataset used to build the equity curve
+```
+
+---
+
 ## 🏢 What is FundingPips?
 
 FundingPips is a proprietary trading firm (prop firm) that evaluates traders through a challenge process. Traders who pass are funded with the firm's capital and earn a share of the profits — without risking their own money. I trade a **$5,000 funded account**, and the rewards earned reflect real payouts from live performance under their risk management rules.
@@ -31,9 +42,11 @@ FundingPips is a proprietary trading firm (prop firm) that evaluates traders thr
 
 This repository is a **live, unfiltered 2-year track record** on a CFD account — NDX100, DJ30, XAUUSD and more. Every trade logged, nothing hidden. Raw equity growth from **100% → 134%**, peaking at **181.29%**.
 
-I started trading at **15 years old**. I'm 22 now. That's 7 years of charts, losses, breakthroughs, and everything in between — long before most people my age even knew what a CFD was. For years it didn't click. I blew accounts, doubted myself, and questioned everything. There were nights I stayed up until 3am studying price action, mornings I was back at the screen before sunrise, weekends that didn't feel like weekends. I gave this everything I had, even when I had nothing to show for it.
+I started trading at **15 years old**. I'm 22 now. That's 7 years of charts, losses, breakthroughs, and everything in between. For years it didn't click. I blew accounts, doubted myself, and questioned everything. There were nights I stayed up until 3am studying price action, mornings I was back at the screen before sunrise, weekends that didn't feel like weekends. I gave this everything I had, even when I had nothing to show for it.
 
-It's only in the **last 2.5 years** that it started to come together. Not because I found some secret — but because I put in the time, took the losses seriously, and refused to quit. This repository is the honest record of that journey. The drawdowns are real. The mistakes are real. But so is the growth. 📊
+It's only in the **last 2.5 years** that it started to come together. Not because I found some secret — but because I put in the time, took the losses seriously, and refused to quit. I'm entirely **self-taught** — no mentor, no paid course, no shortcut. Just YouTube videos, screen time, and the brutal but honest feedback of losing real money. Every lesson this market taught me, it charged me for. And I paid every bill.
+
+This repository is the honest record of that journey. The drawdowns are real. The mistakes are real. But so is the growth. 📊
 
 > 🟢 **FundingPips** · Bronze Tier · $1,712 total rewards earned · Highest reward $850.40
 >
@@ -139,14 +152,10 @@ These are the rules every trader must operate within on a FundingPips funded acc
 | ⏳ **No Time Limit** | Trade at your own pace |
 | 🔁 **Consistency Rule** | No single day can exceed 50% of total profits |
 
-> Staying within these rules while being profitable over 675 trades across 2 years is the real challenge — and the real proof of discipline.
+
 
 ---
 
-| File | Description |
-|------|-------------|
-| [`NQ_ORB_trades.csv`](./NQ_ORB_trades.csv) | NQ trade log — entry/exit, PnL, direction, duration |
-| [`trades_675_corrected.csv`](./trades_675_corrected.csv) | Full 675-trade dataset with account equity curve |
 
 ---
 
