@@ -9,13 +9,13 @@
 ╚═╝  ╚═══╝ ╚══▀▀═╝      ╚═════╝ ╚═╝  ╚═╝╚═════╝
 ```
 
-### 📈 NQ CFD · Opening Range Breakout · Live Track Record
+### 📈 NQ CFD · Live Track Record · 2 Years
 
 ![Years Active](https://img.shields.io/badge/Years%20Active-2-00d4aa?style=for-the-badge)
 ![Trades](https://img.shields.io/badge/Total%20Trades-675-1a73e8?style=for-the-badge)
 ![Return](https://img.shields.io/badge/Overall%20Return-%2B34%25-00c853?style=for-the-badge)
 ![Peak](https://img.shields.io/badge/Peak%20Equity-%2B81.29%25-ff6d00?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-LIVE-brightgreen?style=for-the-badge&logo=circle)
+![Status](https://img.shields.io/badge/Status-LIVE-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -23,26 +23,26 @@
 
 ## ⚡ What Is This?
 
-This repository documents **2 years of live NQ Futures trading** using an **Opening Range Breakout (ORB)** strategy on the Nasdaq-100 E-Mini. Every trade is logged, tracked, and published here — no cherry-picking, no curve-fitting, just raw performance data.
+This repository is a **live, unfiltered 2-year track record** on a CFD account — NDX100, DJ30, XAUUSD and more. Every trade logged, nothing hidden. Raw equity growth from **100% → 134%**, peaking at **181.29%**.
 
-> **ORB** = Trade the breakout of the first 15/30-minute candle after the US market open. Direction confirmed by momentum. Targets scaled out at multiple R-multiples.
+These 2 years have been a serious education. I've made plenty of mistakes — bad entries, poor risk management, emotional trades — and this record shows all of it, drawdowns included. No polishing, no selective memory. Every loss is a lesson and every lesson has made me sharper. The goal isn't perfection, it's **consistent improvement**, and that's what I show up for every single day. 📊
+
+> 🟢 **FundingPips** · Bronze Tier · $1,712 total rewards earned · Highest reward $850.40
+>
+> 🔗 **[View Verified FundingPips Profile →](https://app.fundingpips.com/shared/users/41ecf009-a5de-4ae7-bc0c-57913523a01f)**
 
 ---
 
 ## 📊 Equity Curve
 
-> *Paste your equity curve image or embed your HTML chart below*
-
-<!-- OPTION A — embed as image (recommended for GitHub) -->
-<!-- Save your chart as equity_curve.png and place it in this repo, then uncomment: -->
+<!-- OPTION A: Save chart as equity_curve.png, upload to repo, uncomment below -->
 <!-- ![Equity Curve](./equity_curve.png) -->
 
-<!-- OPTION B — paste the raw HTML equity curve here inside a details block -->
+<!-- OPTION B: Interactive HTML chart — paste contents of equity_curve_white_bg.html below -->
 <details>
 <summary><b>🔽 Click to expand interactive equity curve</b></summary>
 
 <!-- PASTE YOUR equity_curve_white_bg.html CONTENT HERE -->
-<!-- Everything between the <div> tags of that file goes here -->
 
 </details>
 
@@ -50,24 +50,67 @@ This repository documents **2 years of live NQ Futures trading** using an **Open
 
 ## 📋 Account Metrics
 
-> *Replace the values below with your actual stats*
-
 <div align="center">
 
 | Metric | Value |
 |--------|-------|
-| 📅 **Track Record Start** | April 2024 |
+| 📅 **Track Record** | Apr 2024 – Feb 2026 |
 | 🔢 **Total Trades** | 675 |
 | 💰 **Overall Return** | +34.00% |
 | 🏔️ **Peak Equity** | +81.29% |
-| 📉 **Max Drawdown** | `PASTE HERE` |
-| 🎯 **Win Rate** | `PASTE HERE` |
-| ⚖️ **Profit Factor** | `PASTE HERE` |
-| 📐 **Average R:R** | `PASTE HERE` |
-| 🏆 **Best Trade** | `PASTE HERE` |
-| 💀 **Worst Trade** | `PASTE HERE` |
-| ⏱️ **Avg Hold Time** | `PASTE HERE` |
-| 📆 **Avg Trades/Month** | `PASTE HERE` |
+| 📉 **Max Drawdown** | -54.34% |
+| 🎯 **Win Rate** | 41.78% (282 wins) |
+| ❌ **Loss Rate** | 58.22% (393 losses) |
+| ⚖️ **Profit Factor** | 1.26 |
+| 📐 **Avg R:R** | 1.75 |
+| 🏆 **Best Trade** | +7.70% |
+| 💀 **Worst Trade** | -17.00% |
+| 📈 **Avg Win** | +0.57% |
+| 📉 **Avg Loss** | -0.33% |
+| 📆 **Avg Trades / Month** | ~31 |
+
+</div>
+
+---
+
+## 🎯 Behavioural Bias
+
+<div align="center">
+
+| Bias | Weight |
+|------|--------|
+| 🐻 **Bear / Short** | 56% |
+| 🐂 **Bull / Long** | 44% |
+
+</div>
+
+---
+
+## 🗺️ Session Win Rates
+
+<div align="center">
+
+| Session | Win Rate |
+|---------|----------|
+| 🗽 New York | 40.7% |
+| 🇬🇧 London | 39.5% |
+| 🌏 Asia | 17.6% |
+
+</div>
+
+---
+
+## 📊 Most Traded Instruments
+
+<div align="center">
+
+| Instrument | Trades | Share |
+|------------|--------|-------|
+| NDX100 | 392 | 43.18% |
+| NDX USD | 91 | 29.81% |
+| DJ30 | 128 | 44.80% |
+| XAUUSD | 48 | — |
+| GBPJPY | 16 | — |
 
 </div>
 
@@ -77,36 +120,14 @@ This repository documents **2 years of live NQ Futures trading** using an **Open
 
 | File | Description |
 |------|-------------|
-| [`NQ_ORB_trades.csv`](./NQ_ORB_trades.csv) | Full trade log — 214 NQ ORB trades with entry/exit, PnL, direction |
-| [`trades_675_corrected.csv`](./trades_675_corrected.csv) | Complete 675-trade dataset used for equity curve |
-
----
-
-## 🧠 Strategy Overview
-
-```
-INSTRUMENT  →  NQ Futures (Nasdaq-100 E-Mini)
-TIMEFRAME   →  Opening Range (first candle post-open)
-DIRECTION   →  Long bias in uptrend / Short bias in downtrend
-ENTRIES     →  Break & close above/below ORB high/low
-TARGETS     →  Scaled exits at 1R, 2R, 3R+
-STOP LOSS   →  Below/above opposite ORB level
-SESSION     →  US Market Open (15:30 SAST / 09:30 EST)
-```
-
----
-
-## 📅 Monthly Breakdown
-
-> *Paste a screenshot of your monthly P&L table here, or add a second CSV*
-
-<!-- ![Monthly PnL](./monthly_pnl.png) -->
+| [`NQ_ORB_trades.csv`](./NQ_ORB_trades.csv) | NQ trade log — entry/exit, PnL, direction, duration |
+| [`trades_675_corrected.csv`](./trades_675_corrected.csv) | Full 675-trade dataset with account equity curve |
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository is a **personal performance journal**. Nothing here constitutes financial advice. Trading futures involves substantial risk of loss. Past performance does not guarantee future results.
+This repository is a **personal performance journal**. Nothing here constitutes financial advice. CFD trading involves substantial risk of loss. Past performance does not guarantee future results.
 
 ---
 
