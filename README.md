@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝ ╚══▀▀═╝      ╚═════╝ ╚═╝  ╚═╝╚═════╝
 ```
 
-### 📈 NQ Futures · Opening Range Breakout · Live Track Record
+### 📈 NQ CFD · Opening Range Breakout · Live Track Record
 
 ![Years Active](https://img.shields.io/badge/Years%20Active-2-00d4aa?style=for-the-badge)
 ![Trades](https://img.shields.io/badge/Total%20Trades-675-1a73e8?style=for-the-badge)
